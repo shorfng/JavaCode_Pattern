@@ -3,7 +3,7 @@ package com.loto.principle.a.OCP;
 /**
  * Author：蓝田_Loto
  * Date：2019-07-05 13:48
- * <p>PageName：OpenCloseTest.java
+ * <p>PageName：OCPTest.java
  * </p>
  * <p>Function：开闭原则测试类
  */
