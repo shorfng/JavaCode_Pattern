@@ -1,11 +1,10 @@
 package com.loto.principle.a.OCP;
 
 /**
- * Author：蓝田_Loto
- * Date：2019-07-05 13:24
- * <p>PageName：JavaCourse.java
- * </p>
- * <p>Function：java课程类
+ * Author：蓝田_Loto<p>
+ * Date：2019-07-05 13:24<p>
+ * PageName：JavaCourse.java<p>
+ * Function：java课程类
  */
 
 public class JavaCourse implements ICourse{

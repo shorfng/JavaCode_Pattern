@@ -1,11 +1,10 @@
 package com.loto.principle.a.OCP;
 
 /**
- * Author：蓝田_Loto
- * Date：2019-07-05 13:48
- * <p>PageName：OCPTest.java
- * </p>
- * <p>Function：开闭原则测试类
+ * Author：蓝田_Loto<p>
+ * Date：2019-07-05 13:48<p>
+ * PageName：OCPTest.java<p>
+ * Function：开闭原则测试类
  */
 
 public class OCPTest {
