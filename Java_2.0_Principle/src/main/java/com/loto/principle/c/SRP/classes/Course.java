@@ -1,11 +1,10 @@
 package com.loto.principle.c.SRP.classes;
 
 /**
- * Author：蓝田_Loto
- * Date：2020-06-04 13:35
- * <p>PageName：Course.java
- * </p>
- * <p>Function：课程类
+ * Author：蓝田_Loto<p>
+ * Date：2020-06-04 13:35<p>
+ * PageName：Course.java<p>
+ * Function：课程类
  */
 
 public class Course {
